@@ -1,5 +1,10 @@
-This is a fork of upstream (which appears dead) with some pull requests applied
-to support other languages etc.
+Upstream was https://sourceforge.net/projects/vim-taglist/ which hasn't been
+updated since 20130429 (v4.6).
+
+This is a fork of the github mirror of v4.5 with some pull requests applied to
+pull in upstream v4.6 and support other languages (go, perl6) etc.
+
+This updated version can be used with Vundle as "Plugin 'stmuk/taglist.vim'"
 
 20171128 steve.mynott@gmail.com
 
