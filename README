@@ -6,6 +6,9 @@ pull in upstream v4.6 and support other languages (go, perl6) etc.
 
 This updated version can be used with Vundle as "Plugin 'stmuk/taglist.vim'"
 
+An actively maintained version of ctags to use with it is "Universal Ctags" 
+at https://github.com/universal-ctags/ctags
+
 20171128 steve.mynott@gmail.com
 
 Original README follows
