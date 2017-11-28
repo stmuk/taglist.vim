@@ -435,11 +435,11 @@ let s:tlist_def_fortran_settings = 'fortran;p:program;b:block data;' .
                     \ 'c:common;e:entry;i:interface;k:type;l:label;m:module;' .
                     \ 'n:namelist;t:derived;v:variable;f:function;s:subroutine'
 
-" GO language
-let s:tlist_def_go_settings = 'go;f:function;p:package;t:struct'
+" go language 
+let s:tlist_def_go_settings ='go;f:function;p:package;t:struct;c:const;v:vars'
 
 " HTML language
-let s:tlist_def_html_settings = 'html;a:anchor;f:function'
+let s:tlist_def_html_settings = 'html;a:anchor;f:javascript function'
 
 " java language
 let s:tlist_def_java_settings = 'java;p:package;c:class;i:interface;' .
