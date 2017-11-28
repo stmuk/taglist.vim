@@ -1,3 +1,11 @@
+This is a fork of upstream (which appears dead) with some pull requests applied
+to support other languages etc.
+
+20171128 steve.mynott@gmail.com
+
+Original README follows
+
+----------------------------------------------------------------------
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=273
 
 The "Tag List" plugin is a source code browser plugin for Vim and
