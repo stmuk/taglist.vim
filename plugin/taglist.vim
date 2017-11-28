@@ -471,6 +471,9 @@ let s:tlist_def_pascal_settings = 'pascal;f:function;p:procedure'
 " perl language
 let s:tlist_def_perl_settings = 'perl;c:constant;l:label;p:package;s:subroutine'
 
+" perl6 language
+let s:tlist_def_perl6_settings = 'perl6;c:constant;l:label;p:package;s:subroutine'
+
 " php language
 let s:tlist_def_php_settings =
             \ 'php;c:class;i:interface;d:constant;v:variable;f:function'
